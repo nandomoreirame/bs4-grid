@@ -1,0 +1,20 @@
+{
+  "name": "bs4-grid",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nandomoreirame/bs4-grid",
+  "authors": [
+    "Fernando Moreira <nandomoreira.me@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "Gemfile*",
+    "Procfile",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
